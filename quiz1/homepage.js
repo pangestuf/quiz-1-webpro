@@ -1,0 +1,1 @@
+alert("Welcome to my website, hope you have a pleasant stay!");
